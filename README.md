@@ -29,11 +29,13 @@ In this project, I carried out integration and automated API testing for the DMo
 # Documantation for the API Collection -
 https://documenter.getpostman.com/view/37977154/2sAYHzFNUX
 
+# Test Case
+https://docs.google.com/spreadsheets/d/1j_1NnZm-j40svgoj_WDhBKWaop9HKK2WQIn4jO7JBlo/edit?usp=sharing
+
 # Report
 ![image](https://github.com/user-attachments/assets/654847ac-8fcd-412f-a089-295c91dc6943)
 
-# Test Case
-https://docs.google.com/spreadsheets/d/1j_1NnZm-j40svgoj_WDhBKWaop9HKK2WQIn4jO7JBlo/edit?usp=sharing
+
 
 
   
