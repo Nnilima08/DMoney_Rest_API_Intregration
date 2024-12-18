@@ -32,6 +32,9 @@ https://documenter.getpostman.com/view/37977154/2sAYHzFNUX
 # Test Case
 https://docs.google.com/spreadsheets/d/1j_1NnZm-j40svgoj_WDhBKWaop9HKK2WQIn4jO7JBlo/edit?usp=sharing
 
+# Bug Report
+ https://docs.google.com/spreadsheets/d/1Aof8tmCGsj90zC3wnR6crmM1Kaaar9fJ4oSQqU2o2kg/edit?usp=sharing
+
 # Report
 ![image](https://github.com/user-attachments/assets/654847ac-8fcd-412f-a089-295c91dc6943)
 
